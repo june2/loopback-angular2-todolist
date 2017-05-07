@@ -2,7 +2,7 @@
 
 
 
-## Prerequisites
+### Prerequisites
 Before starting this tutorial, you must install:
 - node.js
 - loopback framework
